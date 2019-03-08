@@ -1,0 +1,2 @@
+nrfutil_spi pkg generate --hw-version 52 --application-version 1 --application ble_app_test_pca10056_s140.hex --sd-req 0xAE 840_slim_spi_test.zip
+nrfutil_spi pkg generate --hw-version 52 --application-version 1 --application ble_app_test2_pca10056_s140.hex --sd-req 0xAE 840_slim_spi_test2.zip

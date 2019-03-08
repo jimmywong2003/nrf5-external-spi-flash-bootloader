@@ -1,0 +1,1 @@
+nrfutil pkg generate --hw-version 52 --sd-req 0xAE --application-version 1 --application ble_app_test_pca10056_s140.hex --key-file private.key  840_app_test.zip
