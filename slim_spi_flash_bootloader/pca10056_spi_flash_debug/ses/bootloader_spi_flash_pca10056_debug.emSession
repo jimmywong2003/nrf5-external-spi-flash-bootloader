@@ -5,8 +5,6 @@
  </Bookmarks>
  <Breakpoints groups="Breakpoints" active_group="Breakpoints">
   <BreakpointListItem trigger="" line="69" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../sdk_mod/bootloader_spi/nrf_bootloader_app_start.c" useHWbreakpoint="false"/>
-  <BreakpointListItem trigger="" line="629" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../sdk_mod/bootloader_spi/nrf_bootloader_slim_spi.c" useHWbreakpoint="false"/>
-  <BreakpointListItem trigger="" line="633" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../sdk_mod/bootloader_spi/nrf_bootloader_slim_spi.c" useHWbreakpoint="false"/>
   <BreakpointListItem trigger="" line="101" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../sdk_mod/bootloader_spi/nrf_dfu_mbr.c" useHWbreakpoint="false"/>
   <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
  </Breakpoints>
@@ -71,16 +69,16 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_flash.h" selected="0" top="92" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="630" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_slim_spi.c" selected="1" top="611" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_app_start.c" selected="0" top="42" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="83" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_mbr.c" selected="0" top="79" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="103" useTextEdit="1" useBinaryEdit="0" left="0" path="../../main.c" selected="0" top="91" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="945" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../modules/nrfx/hal/nrf_power.h" selected="0" top="932" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="153" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_flash.c" selected="0" top="133" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="129" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_info.h" selected="0" top="129" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/mbr/nrf52840/headers/nrf_mbr.h" selected="0" top="52" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="205" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_spi_req_handler.c" selected="0" top="115" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_flash.h" selected="0" top="92" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="630" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_slim_spi.c" selected="1" top="611" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_app_start.c" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="83" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_mbr.c" selected="0" top="79" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="103" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../main.c" selected="0" top="91" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="945" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../modules/nrfx/hal/nrf_power.h" selected="0" top="932" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="153" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_flash.c" selected="0" top="133" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="129" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_bootloader_info.h" selected="0" top="129" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../components/softdevice/mbr/nrf52840/headers/nrf_mbr.h" selected="0" top="52" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="205" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../sdk_mod/bootloader_spi/nrf_dfu_spi_req_handler.c" selected="0" top="176" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="bootloader_spi_flash_pca10056_debug" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="C:/Nordic_Semiconductor_ASA/SDK_15.2/Minew/slim_spi_bootloader/sdk_mod/bootloader_spi" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="bootloader_spi_flash_pca10056_debug" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Nordic_Semiconductor_ASA/SDK_15.2/Minew/slim_spi_bootloader/sdk_mod/bootloader_spi" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
